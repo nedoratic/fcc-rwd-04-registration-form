@@ -7,3 +7,14 @@ body {
 	background-color: #1b1b32;
 	color: #f5f6f7;
 }
+
+h1,
+p {
+	margin: 1em auto;
+	text-align: center;
+}
+
+label {
+	display: block;
+	margin: 0.5rem 0;
+}
